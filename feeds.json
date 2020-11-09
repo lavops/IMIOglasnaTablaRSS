@@ -1,0 +1,8 @@
+{
+    "feeds":[
+        {
+            "name": "OglasnaTabla",
+            "url": "https://imi.pmf.kg.ac.rs/rss.php?page=oglasi"
+		}
+    ]
+}

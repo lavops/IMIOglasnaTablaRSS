@@ -1,0 +1,21 @@
+{
+    "mails":[
+        {
+            "mail": "milicevic.djordje@hotmail.com",
+            "items":[
+                {
+                    "item" : "OS1"
+                },
+                {
+                    "item" : "Operativni sistemi 1"
+                },
+                {
+                    "item" : "OS2"
+                },
+                {
+                    "item" : "Operativni sistemi 2"
+                }
+            ]
+	}
+    ]
+}
